@@ -64,8 +64,8 @@ def user_input(user_question):
 
 ## streamlit setup 
 def main():
-    st.set_page_config("Chat Multiple PDF")
-    st.header("Chat with Multiple PDF using Gemini💁")
+    st.set_page_config("KYS:AI")
+    st.header("Know-Your-State With AI💁")
 
     user_question = st.text_input("Ask a Question from the PDF Files")
 
