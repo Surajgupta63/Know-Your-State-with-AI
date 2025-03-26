@@ -35,7 +35,6 @@ cd <repository-folder>
 ### **2. Set Up Virtual Environment and Install Requirements**  
 ```bash  
 python -m venv myenv  
-source myenv/bin/activate  # For Linux/Mac  
 myenv\Scripts\activate     # For Windows  
 pip install -r requirements.txt  
 ```  
